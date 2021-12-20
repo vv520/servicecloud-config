@@ -1,2 +1,18 @@
-server:
-	port: 8001
+spring:
+	profiles:
+		active:
+			- dev
+---
+
+spring:
+	profiles: dev
+	application:
+		name: servicecloud-config-htwy-dev
+		
+---
+
+spring:
+	profiles: test
+	application:
+		name: servicecloud-config-htwy-dev
+		
