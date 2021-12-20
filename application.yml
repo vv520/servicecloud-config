@@ -4,5 +4,5 @@ spring:
 ---
 spring:
   profiles: dev
-  application:
+  application: 
     name: servicecloud-config
