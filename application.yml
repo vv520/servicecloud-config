@@ -5,10 +5,4 @@ spring:
 spring:
   profiles: dev
     application:
-      name: servicecloud-config-htwy-dev
----
-
-spring:
-  profiles: test
-    application:
-      name: servicecloud-config-htwy-dev
+      name: servicecloud-config
