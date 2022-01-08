@@ -1,0 +1,6 @@
+spring:
+  application: #这里要加一个空格
+    name: servicecloud-config-3366
+    
+config: 
+  info: "3366info version:5"
