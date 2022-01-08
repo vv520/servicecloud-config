@@ -1,3 +1,6 @@
 spring:
   application: #这里要加一个空格
     name: servicecloud-config2
+    
+config: 
+  info: vv0512
