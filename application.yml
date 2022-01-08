@@ -1,8 +1,1 @@
-spring:
-  profiles:
-    active: dev
----
-spring:
-  profiles: dev
-  application: #这里要加一个空格
-    name: servicecloud-config
+
