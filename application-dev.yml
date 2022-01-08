@@ -3,4 +3,4 @@ spring:
     name: servicecloud-config2
     
 config: 
-  info: "vv0512_change version:3"
+  info: "vv0512_change version:4"
